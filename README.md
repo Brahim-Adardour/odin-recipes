@@ -1,2 +1,2 @@
 # odin-recipes
-<p> A collection of recipes done for the Odin Project, done using HTML only.</p>
+A collection of [recipes](https://brahim-adardour.github.io/odin-recipes/) done for the Odin Project, done using HTML only.
